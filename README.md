@@ -1,1 +1,1 @@
-<img src=".github/capa.png" alt="Capa ToDo List" />
+<img src=".github/capa.png](https://raw.githubusercontent.com/BrunoBecoski/Ignite-ReactJS-Desafio-01-Praticando-os-conceitos-do-ReactJS/main/.github/capa.png)https://raw.githubusercontent.com/BrunoBecoski/Ignite-ReactJS-Desafio-01-Praticando-os-conceitos-do-ReactJS/main/.github/capa.png" alt="Capa ToDo List" />
